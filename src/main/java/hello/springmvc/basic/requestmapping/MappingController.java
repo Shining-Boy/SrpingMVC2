@@ -97,5 +97,5 @@ public class MappingController {
     public String mappingProduces() {
         log.info("mappingProduces");
         return "ok";
-}
+    }
 }
